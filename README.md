@@ -1,1 +1,1 @@
-# Rubix-cube-Solver
+# Rubix-cube-Solver _web application
